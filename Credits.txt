@@ -1,0 +1,29 @@
+This game is made using a pygame template made by Professor Craven from the Simpson College Computer Science
+link: http://programarcadegames.com/python_examples/f.php?file=platform_moving.py
+
+Individual segements of code made ny others were also used and modified at various sections of this project,
+they're referenced in the spot they are used in the game.py or level.py files, but here's a master attribution document to
+creadit all the creators that I used code from:
+
+    * Nothing else! suprisingly I only used the template code and did the rest myself
+
+------------------------------------------------------------------------>
+
+Image and music attributions:
+
+IMAGES: 
+
+    * https://opengameart.org/content/mountain-at-dusk-background
+    * Buch from opengameart: http://blog-buch.rhcloud.com and https://opengameart.org/content/a-platformer-in-the-forest
+    * Wulax from opengameart: https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    * JM.Atencia from opengameart: https://opengameart.org/content/spinning-coin
+    * SilentPhil from Yoyo Games: https://marketplace.yoyogames.com/assets/5879/platformer-dungeon-pack\
+    * Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor: 
+    * Nicnubill from Deviant Art: https://www.deviantart.com/nicnubill/art/dungeon-Of-Sorrow-Gate-407553705
+
+MUSIC:
+
+    All the music was made using Beatbox! If you want to use the music here
+    attribute it as "Pento's pledge music"
+
+

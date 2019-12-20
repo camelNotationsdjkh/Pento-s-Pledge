@@ -1,0 +1,5 @@
+This is the session score of player
+
+PLAYER HIGHSCORE
+-------------------------------------------------------->
+
