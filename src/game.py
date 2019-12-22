@@ -115,15 +115,14 @@ class Game(object):
                 # Checks if player won
                 if current_level_no == 2:
                     player.win = True
-                    current_level_no -= 1 # To allow the wi screen to show
-                player.distance_traveled = 0
-                current_level = level_list[current_level_no]
-                player.level = current_level
+                    current_level_no -= 1 # To allow the win screen to show
                 pygame.mixer.music.stop()
 
                 # Show progress screen
                 if self.progress(player.score, current_level.coin_total):
                     # Reset for the new level
+                    current_level = level_list[current_level_no]
+                    player.level = current_level
                     intro = animate.Transition(current_level.intro_text, current_level.color, current_level.text_color)
                     active_sprite_list.add(intro)
                     player.reset_player()
