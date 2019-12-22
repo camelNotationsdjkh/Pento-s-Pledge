@@ -5,7 +5,7 @@ Individual segements of code made ny others were also used and modified at vario
 they're referenced in the spot they are used in the game.py or level.py files, but here's a master attribution document to
 creadit all the creators that I used code from:
 
-    * Nothing else! suprisingly I only used the template code and did the rest myself
+    * Nothing else! Suprisingly I only used the template code and did the rest myself
 
 ------------------------------------------------------------------------>
 
