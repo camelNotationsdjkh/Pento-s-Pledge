@@ -5,7 +5,7 @@
 A scrollable platformer game with moving platforms and enemies.
 Set in a fantasy medieval setting revolving around a character named 
 Pento who sets out to save his King. PLay as him as he escapes from 
-a dungeon, dodges enemies and rescues the King!
+a dungeon, dodges enemies and rescue the King!
 
 Coded in python3 using Pygame
 
