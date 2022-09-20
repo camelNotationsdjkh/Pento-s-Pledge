@@ -1,5 +1,6 @@
 # A Keyboard controlled platformer Game
 ## Using Python 3 & Pygame
+
 ## How to start the game
 > Install the files as ZIP (go to `Code` -> `Download as ZIP`) and extract all files
 > Go to folder src -> then run index.py
