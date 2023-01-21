@@ -1,7 +1,7 @@
 # A Keyboard controlled platformer Game
-## Using Python 3 & Pygame
 ![](images/PentoTitle1.jpg)
 
+## Using Python 3 & Pygame
 ## How to start the game
 > Install the files as ZIP (go to `Code` -> `Download as ZIP`) and extract all files
 > 
@@ -20,3 +20,5 @@ Coded in python3 using Pygame
 Hope you enjoy the game!
 
 => All attributions are on a file named Credits.txt
+
+![](images/PentoTitle2.jpg)
