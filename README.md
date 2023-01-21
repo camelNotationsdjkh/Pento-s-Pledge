@@ -28,4 +28,9 @@ At the time, this was probably one of the biggest projects I've ever undertaken.
 
 My take away really did come from the proccess of creating the game where I gained key insights into game design, animation and color throry. Additionally, I learned Object Oriented Programming to a great depth and how to read module documentation to add the features I wanted — skills that would become very pivotal to my future project, Nika | Confessions Discord bot. 
 
+
+
+
+
+
 ![](images/PentoTitle2.jpg)
