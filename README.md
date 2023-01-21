@@ -19,7 +19,7 @@ Coded in python3 using Pygame
 
 Hope you enjoy the game!
 
-# Video demo: ![https://youtu.be/8RKQsFKlfW8](https://youtu.be/8RKQsFKlfW8)
+# Video demo: [https://youtu.be/8RKQsFKlfW8](https://youtu.be/8RKQsFKlfW8)
 
 => All attributions are on a file named Credits.txt
 
